@@ -3,4 +3,4 @@ os.system("cls")
 from math import factorial
 
 fa=int(input("Ingrese un numero:"))
-print("Factorial(" ,fa , ")=" ,factorial(fa
+print("Factorial(" ,fa , ")=" ,factorial(fa))
